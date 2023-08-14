@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Odysseus1027
-- 👀 I’m interested in Bioinformatics and Genomics
-- 🌱 I’m currently learning Data analysis with R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 😈 My major is Biology and Medicine
+- 👀 I’m interested in single-cell transcriptomics and spatial transcriptomics in the field of cancer
+- 🌱 I’m currently learning Bioinformatics Data analysis with R & Python
+- 💞️ I’m looking to collaborate on machine learning
+- 📫 Email:2604665999@qq.com
 
 <!---
 Odysseus1027/Odysseus1027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
