@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Jingwei Zhao
-- 😈 My major is Biology and Medicine
-- 👀 I’m interested in single-cell transcriptomics and spatial transcriptomics in the field of cancer
+- 👋 Hi, I’m @`Jingwei Zhao`
+- 🎓 My major is Biology and Medicine
+- 🧑‍💻 I’m interested in `single-cell transcriptomics` and `Spatial multiomics` in the field of cancer
 - 🌱 I’m currently learning Bioinformatics Data analysis with R & Python
+- 🤍 We're two hearts with but one beat
 - 📫 Email:2604665999@qq.com
 
 <!---
